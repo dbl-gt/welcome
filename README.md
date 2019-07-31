@@ -1,3 +1,3 @@
 # welcome
 
-under construction
+Repository for diverse projects related to the AEC industry.
